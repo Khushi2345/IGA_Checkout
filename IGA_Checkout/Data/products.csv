@@ -1,0 +1,101 @@
+ProductID,Name,Category,Barcode,PLU,Price,IsWeighable,Unit
+1,Milk,Dairy,9300000000001,1001,3.5,false,each
+2,Bread,Bakery,9300000000002,1002,4.0,false,each
+3,Apple,Fruit and Vegetables,,101,4.5,true,kg
+4,Eggs,Dairy and Eggs,9300000000004,1003,6.5,false,dozen
+5,Banana,Fruit and Vegetables,,102,3.8,true,kg
+6,Chicken Noodles,Prepacked Meals,9300000000006,1004,7.5,false,each
+7,Butter,Dairy,9300000000007,1005,5.2,false,each
+8,Potato,Fruit and Vegetables,,103,2.9,true,kg
+9,Cheese,Dairy,9300000000009,1006,6.9,false,each
+10,Chocolate,Confectionery,9300000000010,1007,3.0,false,each
+11,Orange,Fruit and Vegetables,,1008,4.2,true,kg
+12,Lemon,Fruit and Vegetables,,1009,5.0,true,kg
+13,Lime,Fruit and Vegetables,,1010,6.5,true,kg
+14,Pear,Fruit and Vegetables,,1011,4.8,true,kg
+15,Peach,Fruit and Vegetables,,1012,6.9,true,kg
+16,Nectarine,Fruit and Vegetables,,1013,6.9,true,kg
+17,Mango,Fruit and Vegetables,,1014,5.5,true,kg
+18,Avocado,Fruit and Vegetables,,1015,7.5,true,kg
+19,Grapes,Fruit and Vegetables,,1016,8.0,true,kg
+20,Watermelon,Fruit and Vegetables,,1017,3.2,true,kg
+21,Carrot,Fruit and Vegetables,,1018,2.5,true,kg
+22,Onion,Fruit and Vegetables,,1019,2.8,true,kg
+23,Tomato,Fruit and Vegetables,,1020,4.5,true,kg
+24,Capsicum,Fruit and Vegetables,,1021,6.0,true,kg
+25,Broccoli,Fruit and Vegetables,,1022,5.5,true,kg
+26,Cauliflower,Fruit and Vegetables,,1023,4.9,true,kg
+27,Cucumber,Fruit and Vegetables,,1024,3.9,true,kg
+28,Zucchini,Fruit and Vegetables,,1025,4.2,true,kg
+29,Sweet Potato,Fruit and Vegetables,,1026,3.5,true,kg
+30,Mushrooms,Fruit and Vegetables,,1027,9.0,true,kg
+31,Lettuce,Fruit and Vegetables,,1028,3.0,true,each
+32,Spinach,Fruit and Vegetables,9300000000032,1029,3.5,false,bag
+33,Garlic,Fruit and Vegetables,,1030,12.0,true,kg
+34,Ginger,Fruit and Vegetables,,1031,15.0,true,kg
+35,Celery,Fruit and Vegetables,,1032,3.8,true,kg
+36,Bacon,Meat,9300000000036,1033,8.5,false,each
+37,Beef Mince,Meat,9300000000037,1034,12.0,false,each
+38,Sausages,Meat,9300000000038,1035,9.5,false,each
+39,Ham,Meat,9300000000039,1036,7.0,false,each
+40,Chicken Breast,Meat,9300000000040,1037,13.5,false,each
+41,Frozen Peas,Frozen Foods,9300000000041,1038,4.5,false,bag
+42,Frozen Chips,Frozen Foods,9300000000042,1039,5.5,false,bag
+43,Ice Cream,Frozen Foods,9300000000043,1040,8.0,false,tub
+44,Frozen Pizza,Frozen Foods,9300000000044,1041,7.5,false,each
+45,Frozen Mixed Vegetables,Frozen Foods,9300000000045,1042,4.8,false,bag
+46,Rice,Pantry,9300000000046,1043,5.0,false,bag
+47,Pasta,Pantry,9300000000047,1044,2.5,false,pack
+48,Spaghetti,Pantry,9300000000048,1045,2.8,false,pack
+49,Flour,Pantry,9300000000049,1046,3.5,false,bag
+50,Sugar,Pantry,9300000000050,1047,2.8,false,bag
+51,Salt,Pantry,9300000000051,1048,1.5,false,pack
+52,Cooking Oil,Pantry,9300000000052,1049,6.0,false,bottle
+53,Cereal,Breakfast,9300000000053,1050,6.5,false,box
+54,Corn Flakes,Breakfast,9300000000054,1051,5.0,false,box
+55,Oats,Breakfast,9300000000055,1052,4.5,false,box
+56,Peanut Butter,Pantry,9300000000056,1053,5.5,false,jar
+57,Jam,Pantry,9300000000057,1054,4.0,false,jar
+58,Honey,Pantry,9300000000058,1055,7.0,false,jar
+59,Tomato Sauce,Pantry,9300000000059,1056,3.5,false,bottle
+60,Mayonnaise,Pantry,9300000000060,1057,4.5,false,jar
+61,Water,Beverages,9300000000061,1058,2.0,false,bottle
+62,Orange Juice,Beverages,9300000000062,1059,4.5,false,bottle
+63,Apple Juice,Beverages,9300000000063,1060,4.0,false,bottle
+64,Soft Drink,Beverages,9300000000064,1061,3.0,false,bottle
+65,Energy Drink,Beverages,9300000000065,1062,4.0,false,can
+66,Tea,Beverages,9300000000066,1063,5.0,false,box
+67,Coffee,Beverages,9300000000067,1064,8.5,false,jar
+68,Hot Chocolate,Beverages,9300000000068,1065,6.0,false,box
+69,Yoghurt,Dairy,9300000000069,1066,2.5,false,tub
+70,Greek Yoghurt,Dairy,9300000000070,1067,4.5,false,tub
+71,Cream,Dairy,9300000000071,1068,3.5,false,carton
+72,Sour Cream,Dairy,9300000000072,1069,3.0,false,tub
+73,Custard,Dairy,9300000000073,1070,3.5,false,carton
+74,Ice Cream Sandwich,Frozen Foods,9300000000074,1071,5.0,false,pack
+75,Biscuits,Snacks,9300000000075,1072,3.5,false,pack
+76,Potato Chips,Snacks,9300000000076,1073,4.5,false,bag
+77,Popcorn,Snacks,9300000000077,1074,3.0,false,bag
+78,Nuts,Snacks,9300000000078,1075,6.5,false,bag
+79,Muesli Bar,Snacks,9300000000079,1076,4.0,false,box
+80,Lollies,Confectionery,9300000000080,1077,3.5,false,bag
+81,Gummy Bears,Confectionery,9300000000081,1078,3.0,false,bag
+82,Chocolate Bar,Confectionery,9300000000082,1079,2.5,false,each
+83,Mint Candy,Confectionery,9300000000083,1080,2.0,false,pack
+84,Toilet Paper Rolls,Household,9300000000084,1081,9.0,false,pack
+85,Paper Towels,Household,9300000000085,1082,6.5,false,pack
+86,Dishwashing Liquid,Household,9300000000086,1083,4.5,false,bottle
+87,Laundry Detergent,Household,9300000000087,1084,12.0,false,bottle
+88,Surface Cleaner,Household,9300000000088,1085,5.5,false,bottle
+89,Shampoo,Personal Care,9300000000089,1086,7.5,false,bottle
+90,Conditioner,Personal Care,9300000000090,1087,7.5,false,bottle
+91,Soap,Personal Care,9300000000091,1088,3.0,false,pack
+92,Toothpaste,Personal Care,9300000000092,1089,5.0,false,tube
+93,Toothbrush,Personal Care,9300000000093,1090,4.0,false,each
+94,Tissues,Personal Care,9300000000094,1091,3.5,false,box
+95,Band-Aid,Health and Personal Care,9300000000095,1092,6.0,false,pack
+96,Hand Sanitiser,Health and Personal Care,9300000000096,1093,4.5,false,bottle
+97,Sushi,Ready Meals,9300000000097,1094,11.99,false,each
+98,Chicken Wrap,Ready Meals,9300000000098,1095,8.5,false,each
+99,Lasagne,Ready Meals,9300000000099,1096,9.5,false,each
+100,Garlic Bread,Bakery,9300000000100,1097,4.5,false,each

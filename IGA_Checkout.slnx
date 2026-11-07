@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="IGA_Checkout/IGA_Checkout.vcxproj" Id="d2da8629-16fe-4655-be8c-7d4edb5eb260" />
+</Solution>
